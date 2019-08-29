@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1569 - Дільники", "1569 - Дільники\1569 - Дільники.vcxproj", "{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Debug|x64.ActiveCfg = Debug|x64
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Debug|x64.Build.0 = Debug|x64
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Debug|x86.ActiveCfg = Debug|Win32
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Debug|x86.Build.0 = Debug|Win32
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Release|x64.ActiveCfg = Release|x64
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Release|x64.Build.0 = Release|x64
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Release|x86.ActiveCfg = Release|Win32
+		{DCC6DB1E-9F7A-4A02-84A3-6F838C12363C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12DAE88A-F113-47CF-BF1A-6B6990D74CAD}
+	EndGlobalSection
+EndGlobal

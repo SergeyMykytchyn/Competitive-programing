@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1518 - Розбиття трикутника", "1518 - Розбиття трикутника\1518 - Розбиття трикутника.vcxproj", "{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Debug|x64.ActiveCfg = Debug|x64
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Debug|x64.Build.0 = Debug|x64
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Debug|x86.Build.0 = Debug|Win32
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Release|x64.ActiveCfg = Release|x64
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Release|x64.Build.0 = Release|x64
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Release|x86.ActiveCfg = Release|Win32
+		{95DC684E-49D1-4A32-A9EC-0FFF56F8CAD1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {93D498FF-DA7D-4743-ACF5-9BEC9B05FF67}
+	EndGlobalSection
+EndGlobal
